@@ -1,2 +1,2 @@
 # minesweeper
-minesweeper made by pygame
+minesweeper made by pygame with basic logic motivated AI
